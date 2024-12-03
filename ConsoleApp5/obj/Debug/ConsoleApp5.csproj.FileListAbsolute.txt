@@ -1,0 +1,7 @@
+D:\Фокша\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Фокша\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Фокша\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Фокша\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Фокша\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Фокша\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Фокша\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
